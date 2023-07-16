@@ -3,10 +3,12 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { MonacoEditorComponent } from './monaco-editor/monaco-editor.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    MonacoEditorComponent
   ],
   imports: [
     BrowserModule,
