@@ -1,0 +1,607 @@
+Checking @angular/animations
+yarn why v1.22.19
+[1/4] Why do we have the module "@angular/animations"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "@angular/animations@16.1.5"
+info Has been hoisted to "@angular/animations"
+info This module exists because it's specified in "dependencies".
+info Disk size without dependencies: "1.79MB"
+info Disk size with unique dependencies: "1.91MB"
+info Disk size with transitive dependencies: "1.91MB"
+info Number of shared dependencies: 1
+Done in 0.33s.
+
+
+
+Checking @angular/common
+yarn why v1.22.19
+[1/4] Why do we have the module "@angular/common"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "@angular/common@16.1.5"
+info Has been hoisted to "@angular/common"
+info This module exists because it's specified in "dependencies".
+info Disk size without dependencies: "18.07MB"
+info Disk size with unique dependencies: "18.2MB"
+info Disk size with transitive dependencies: "18.2MB"
+info Number of shared dependencies: 1
+Done in 0.42s.
+
+
+
+Checking @angular/compiler
+yarn why v1.22.19
+[1/4] Why do we have the module "@angular/compiler"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "@angular/compiler@16.1.5"
+info Has been hoisted to "@angular/compiler"
+info This module exists because it's specified in "dependencies".
+info Disk size without dependencies: "7.31MB"
+info Disk size with unique dependencies: "7.43MB"
+info Disk size with transitive dependencies: "7.43MB"
+info Number of shared dependencies: 1
+Done in 0.34s.
+
+
+
+Checking @angular/core
+yarn why v1.22.19
+[1/4] Why do we have the module "@angular/core"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "@angular/core@16.1.5"
+info Has been hoisted to "@angular/core"
+info This module exists because it's specified in "dependencies".
+info Disk size without dependencies: "18.17MB"
+info Disk size with unique dependencies: "18.29MB"
+info Disk size with transitive dependencies: "18.29MB"
+info Number of shared dependencies: 1
+Done in 0.34s.
+
+
+
+Checking @angular/forms
+yarn why v1.22.19
+[1/4] Why do we have the module "@angular/forms"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "@angular/forms@16.1.5"
+info Has been hoisted to "@angular/forms"
+info This module exists because it's specified in "dependencies".
+info Disk size without dependencies: "1.93MB"
+info Disk size with unique dependencies: "2.05MB"
+info Disk size with transitive dependencies: "2.05MB"
+info Number of shared dependencies: 1
+Done in 0.33s.
+
+
+
+Checking @angular/platform-browser
+yarn why v1.22.19
+[1/4] Why do we have the module "@angular/platform-browser"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "@angular/platform-browser@16.1.5"
+info Has been hoisted to "@angular/platform-browser"
+info This module exists because it's specified in "dependencies".
+info Disk size without dependencies: "936KB"
+info Disk size with unique dependencies: "1.04MB"
+info Disk size with transitive dependencies: "1.04MB"
+info Number of shared dependencies: 1
+Done in 0.35s.
+
+
+
+Checking @angular/platform-browser-dynamic
+yarn why v1.22.19
+[1/4] Why do we have the module "@angular/platform-browser-dynamic"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "@angular/platform-browser-dynamic@16.1.5"
+info Has been hoisted to "@angular/platform-browser-dynamic"
+info This module exists because it's specified in "dependencies".
+info Disk size without dependencies: "180KB"
+info Disk size with unique dependencies: "304KB"
+info Disk size with transitive dependencies: "304KB"
+info Number of shared dependencies: 1
+Done in 0.38s.
+
+
+
+Checking @angular/router
+yarn why v1.22.19
+[1/4] Why do we have the module "@angular/router"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "@angular/router@16.1.5"
+info Has been hoisted to "@angular/router"
+info This module exists because it's specified in "dependencies".
+info Disk size without dependencies: "2.38MB"
+info Disk size with unique dependencies: "2.5MB"
+info Disk size with transitive dependencies: "2.5MB"
+info Number of shared dependencies: 1
+Done in 0.34s.
+
+
+
+Checking mini-css-extract-plugin
+yarn why v1.22.19
+[1/4] Why do we have the module "mini-css-extract-plugin"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "mini-css-extract-plugin@2.7.6"
+info Has been hoisted to "mini-css-extract-plugin"
+info Reasons this module exists
+   - Specified in "dependencies"
+   - Hoisted from "@angular-devkit#build-angular#mini-css-extract-plugin"
+info Disk size without dependencies: "164KB"
+info Disk size with unique dependencies: "304KB"
+info Disk size with transitive dependencies: "4.34MB"
+info Number of shared dependencies: 8
+Done in 0.39s.
+
+
+
+Checking monaco-editor
+yarn why v1.22.19
+[1/4] Why do we have the module "monaco-editor"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "monaco-editor@0.40.0"
+info Has been hoisted to "monaco-editor"
+info This module exists because it's specified in "dependencies".
+info Disk size without dependencies: "89.07MB"
+info Disk size with unique dependencies: "89.07MB"
+info Disk size with transitive dependencies: "89.07MB"
+info Number of shared dependencies: 0
+Done in 0.43s.
+
+
+
+Checking monaco-editor-webpack-plugin
+yarn why v1.22.19
+[1/4] Why do we have the module "monaco-editor-webpack-plugin"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "monaco-editor-webpack-plugin@7.1.0"
+info Has been hoisted to "monaco-editor-webpack-plugin"
+info This module exists because it's specified in "dependencies".
+info Disk size without dependencies: "72KB"
+info Disk size with unique dependencies: "172KB"
+info Disk size with transitive dependencies: "604KB"
+info Number of shared dependencies: 2
+Done in 0.33s.
+
+
+
+Checking postcss-loader
+yarn why v1.22.19
+[1/4] Why do we have the module "postcss-loader"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "postcss-loader@7.3.3"
+info Has been hoisted to "postcss-loader"
+info This module exists because it's specified in "dependencies".
+info Disk size without dependencies: "116KB"
+info Disk size with unique dependencies: "2.55MB"
+info Disk size with transitive dependencies: "4.11MB"
+info Number of shared dependencies: 17
+info => Found "@angular-devkit/build-angular#postcss-loader@7.3.2"
+info This module exists because "@angular-devkit#build-angular" depends on it.
+info Disk size without dependencies: "376KB"
+info Disk size with unique dependencies: "2.89MB"
+info Disk size with transitive dependencies: "4.46MB"
+info Number of shared dependencies: 18
+Done in 0.38s.
+
+
+
+Checking rxjs
+yarn why v1.22.19
+[1/4] Why do we have the module "rxjs"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "rxjs@7.8.1"
+info Has been hoisted to "rxjs"
+info Reasons this module exists
+   - Specified in "dependencies"
+   - Hoisted from "@angular-devkit#build-angular#rxjs"
+   - Hoisted from "@angular-devkit#build-angular#@angular-devkit#architect#rxjs"
+   - Hoisted from "@angular-devkit#build-angular#@angular-devkit#build-webpack#rxjs"
+   - Hoisted from "@angular-devkit#build-angular#@angular-devkit#core#rxjs"
+   - Hoisted from "@angular#cli#@angular-devkit#schematics#rxjs"
+   - Hoisted from "@angular-devkit#build-angular#inquirer#rxjs"
+info Disk size without dependencies: "11.46MB"
+info Disk size with unique dependencies: "11.58MB"
+info Disk size with transitive dependencies: "11.58MB"
+info Number of shared dependencies: 1
+Done in 0.40s.
+
+
+
+Checking tslib
+yarn why v1.22.19
+[1/4] Why do we have the module "tslib"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "tslib@2.6.0"
+info Has been hoisted to "tslib"
+info Reasons this module exists
+   - Specified in "dependencies"
+   - Hoisted from "rxjs#tslib"
+   - Hoisted from "@angular#animations#tslib"
+   - Hoisted from "@angular#common#tslib"
+   - Hoisted from "@angular#compiler#tslib"
+   - Hoisted from "@angular#core#tslib"
+   - Hoisted from "@angular#forms#tslib"
+   - Hoisted from "@angular#platform-browser#tslib"
+   - Hoisted from "@angular#platform-browser-dynamic#tslib"
+   - Hoisted from "@angular#router#tslib"
+   - Hoisted from "zone.js#tslib"
+   - Hoisted from "@angular#compiler-cli#tslib"
+   - Hoisted from "@angular-devkit#build-angular#less#tslib"
+info Disk size without dependencies: "124KB"
+info Disk size with unique dependencies: "124KB"
+info Disk size with transitive dependencies: "124KB"
+info Number of shared dependencies: 0
+info => Found "@angular-devkit/build-angular#tslib@2.5.3"
+info This module exists because "@angular-devkit#build-angular" depends on it.
+info Disk size without dependencies: "116KB"
+info Disk size with unique dependencies: "116KB"
+info Disk size with transitive dependencies: "116KB"
+info Number of shared dependencies: 0
+Done in 0.33s.
+
+
+
+Checking y-monaco
+yarn why v1.22.19
+[1/4] Why do we have the module "y-monaco"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "y-monaco@0.1.4"
+info Has been hoisted to "y-monaco"
+info This module exists because it's specified in "dependencies".
+info Disk size without dependencies: "21.73MB"
+info Disk size with unique dependencies: "25.29MB"
+info Disk size with transitive dependencies: "25.32MB"
+info Number of shared dependencies: 1
+Done in 0.40s.
+
+
+
+Checking y-websocket
+yarn why v1.22.19
+[1/4] Why do we have the module "y-websocket"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "y-websocket@1.5.0"
+info Has been hoisted to "y-websocket"
+info This module exists because it's specified in "dependencies".
+info Disk size without dependencies: "280KB"
+info Disk size with unique dependencies: "4.89MB"
+info Disk size with transitive dependencies: "4.91MB"
+info Number of shared dependencies: 3
+Done in 0.39s.
+
+
+
+Checking yjs
+yarn why v1.22.19
+[1/4] Why do we have the module "yjs"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "yjs@13.6.7"
+info Has been hoisted to "yjs"
+info This module exists because it's specified in "dependencies".
+info Disk size without dependencies: "2.51MB"
+info Disk size with unique dependencies: "6.07MB"
+info Disk size with transitive dependencies: "6.09MB"
+info Number of shared dependencies: 1
+Done in 0.41s.
+
+
+
+Checking zone.js
+yarn why v1.22.19
+[1/4] Why do we have the module "zone.js"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "zone.js@0.13.1"
+info Has been hoisted to "zone.js"
+info This module exists because it's specified in "dependencies".
+info Disk size without dependencies: "5.89MB"
+info Disk size with unique dependencies: "6.01MB"
+info Disk size with transitive dependencies: "6.01MB"
+info Number of shared dependencies: 1
+Done in 0.37s.
+
+
+
+Checking @angular-builders/custom-webpack
+yarn why v1.22.19
+[1/4] Why do we have the module "@angular-builders/custom-webpack"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "@angular-builders/custom-webpack@16.0.0"
+info Has been hoisted to "@angular-builders/custom-webpack"
+info This module exists because it's specified in "devDependencies".
+info Disk size without dependencies: "336KB"
+info Disk size with unique dependencies: "14.37MB"
+info Disk size with transitive dependencies: "146.7MB"
+info Number of shared dependencies: 150
+Done in 0.88s.
+
+
+
+Checking @angular-devkit/build-angular
+yarn why v1.22.19
+[1/4] Why do we have the module "@angular-devkit/build-angular"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "@angular-devkit/build-angular@16.1.4"
+info Has been hoisted to "@angular-devkit/build-angular"
+info Reasons this module exists
+   - Specified in "devDependencies"
+   - Hoisted from "@angular-builders#custom-webpack#@angular-devkit#build-angular"
+info Disk size without dependencies: "5.68MB"
+info Disk size with unique dependencies: "65.71MB"
+info Disk size with transitive dependencies: "143.82MB"
+info Number of shared dependencies: 191
+Done in 0.82s.
+
+
+
+Checking @angular/cli
+yarn why v1.22.19
+[1/4] Why do we have the module "@angular/cli"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "@angular/cli@16.1.4"
+info Has been hoisted to "@angular/cli"
+info This module exists because it's specified in "devDependencies".
+info Disk size without dependencies: "2.07MB"
+info Disk size with unique dependencies: "17.52MB"
+info Disk size with transitive dependencies: "54.98MB"
+info Number of shared dependencies: 83
+Done in 0.57s.
+
+
+
+Checking @angular/compiler-cli
+yarn why v1.22.19
+[1/4] Why do we have the module "@angular/compiler-cli"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "@angular/compiler-cli@16.1.5"
+info Has been hoisted to "@angular/compiler-cli"
+info This module exists because it's specified in "devDependencies".
+info Disk size without dependencies: "3.18MB"
+info Disk size with unique dependencies: "5.75MB"
+info Disk size with transitive dependencies: "22.89MB"
+info Number of shared dependencies: 63
+Done in 0.41s.
+
+
+
+Checking @types/jasmine
+yarn why v1.22.19
+[1/4] Why do we have the module "@types/jasmine"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "@types/jasmine@4.3.5"
+info Has been hoisted to "@types/jasmine"
+info This module exists because it's specified in "devDependencies".
+info Disk size without dependencies: "64KB"
+info Disk size with unique dependencies: "64KB"
+info Disk size with transitive dependencies: "64KB"
+info Number of shared dependencies: 0
+Done in 0.33s.
+
+
+
+Checking autoprefixer
+yarn why v1.22.19
+[1/4] Why do we have the module "autoprefixer"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "autoprefixer@10.4.14"
+info Has been hoisted to "autoprefixer"
+info Reasons this module exists
+   - Specified in "devDependencies"
+   - Hoisted from "@angular-devkit#build-angular#autoprefixer"
+info Disk size without dependencies: "464KB"
+info Disk size with unique dependencies: "4.89MB"
+info Disk size with transitive dependencies: "5.3MB"
+info Number of shared dependencies: 7
+Done in 0.41s.
+
+
+
+Checking css-loader
+yarn why v1.22.19
+[1/4] Why do we have the module "css-loader"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "css-loader@6.8.1"
+info Has been hoisted to "css-loader"
+info Reasons this module exists
+   - Specified in "devDependencies"
+   - Hoisted from "@angular-devkit#build-angular#css-loader"
+info Disk size without dependencies: "188KB"
+info Disk size with unique dependencies: "1.04MB"
+info Disk size with transitive dependencies: "1.85MB"
+info Number of shared dependencies: 13
+Done in 0.41s.
+
+
+
+Checking jasmine-core
+yarn why v1.22.19
+[1/4] Why do we have the module "jasmine-core"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "jasmine-core@4.5.0"
+info Has been hoisted to "jasmine-core"
+info This module exists because it's specified in "devDependencies".
+info Disk size without dependencies: "480KB"
+info Disk size with unique dependencies: "480KB"
+info Disk size with transitive dependencies: "480KB"
+info Number of shared dependencies: 0
+info => Found "karma-jasmine#jasmine-core@4.6.0"
+info This module exists because "karma-jasmine" depends on it.
+info Disk size without dependencies: "480KB"
+info Disk size with unique dependencies: "480KB"
+info Disk size with transitive dependencies: "480KB"
+info Number of shared dependencies: 0
+Done in 0.35s.
+
+
+
+Checking karma
+yarn why v1.22.19
+[1/4] Why do we have the module "karma"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "karma@6.4.2"
+info Has been hoisted to "karma"
+info This module exists because it's specified in "devDependencies".
+info Disk size without dependencies: "1.55MB"
+info Disk size with unique dependencies: "10.96MB"
+info Disk size with transitive dependencies: "20.5MB"
+info Number of shared dependencies: 78
+Done in 0.48s.
+
+
+
+Checking karma-chrome-launcher
+yarn why v1.22.19
+[1/4] Why do we have the module "karma-chrome-launcher"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "karma-chrome-launcher@3.1.1"
+info Has been hoisted to "karma-chrome-launcher"
+info This module exists because it's specified in "devDependencies".
+info Disk size without dependencies: "116KB"
+info Disk size with unique dependencies: "144KB"
+info Disk size with transitive dependencies: "184KB"
+info Number of shared dependencies: 2
+Done in 0.38s.
+
+
+
+Checking karma-coverage
+yarn why v1.22.19
+[1/4] Why do we have the module "karma-coverage"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "karma-coverage@2.2.1"
+info Has been hoisted to "karma-coverage"
+info This module exists because it's specified in "devDependencies".
+info Disk size without dependencies: "148KB"
+info Disk size with unique dependencies: "2.12MB"
+info Disk size with transitive dependencies: "20.98MB"
+info Number of shared dependencies: 54
+Done in 0.45s.
+
+
+
+Checking karma-jasmine
+yarn why v1.22.19
+[1/4] Why do we have the module "karma-jasmine"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "karma-jasmine@5.1.0"
+info Has been hoisted to "karma-jasmine"
+info This module exists because it's specified in "devDependencies".
+info Disk size without dependencies: "536KB"
+info Disk size with unique dependencies: "1016KB"
+info Disk size with transitive dependencies: "1016KB"
+info Number of shared dependencies: 1
+Done in 0.33s.
+
+
+
+Checking karma-jasmine-html-reporter
+yarn why v1.22.19
+[1/4] Why do we have the module "karma-jasmine-html-reporter"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "karma-jasmine-html-reporter@2.0.0"
+info Has been hoisted to "karma-jasmine-html-reporter"
+info This module exists because it's specified in "devDependencies".
+info Disk size without dependencies: "36KB"
+info Disk size with unique dependencies: "36KB"
+info Disk size with transitive dependencies: "36KB"
+info Number of shared dependencies: 0
+Done in 0.33s.
+
+
+
+Checking style-loader
+yarn why v1.22.19
+[1/4] Why do we have the module "style-loader"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "style-loader@3.3.3"
+info Has been hoisted to "style-loader"
+info This module exists because it's specified in "devDependencies".
+info Disk size without dependencies: "120KB"
+info Disk size with unique dependencies: "120KB"
+info Disk size with transitive dependencies: "120KB"
+info Number of shared dependencies: 0
+Done in 0.32s.
+
+
+
+Checking typescript
+yarn why v1.22.19
+[1/4] Why do we have the module "typescript"...?
+[2/4] Initialising dependency graph...
+[3/4] Finding dependency...
+[4/4] Calculating file sizes...
+info => Found "typescript@4.9.5"
+info Has been hoisted to "typescript"
+info This module exists because it's specified in "devDependencies".
+info Disk size without dependencies: "64.06MB"
+info Disk size with unique dependencies: "64.06MB"
+info Disk size with transitive dependencies: "64.06MB"
+info Number of shared dependencies: 0
+Done in 0.34s.
+
+
+
